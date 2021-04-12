@@ -1,3 +1,5 @@
+The following work as been caried out by me as a part of my bacherlor's thesis at Indian Institute of Technology, Kharagpur under the guidance of Prof. Ayantika Chatterjee (https://sites.google.com/view/ayantikachatterjee/home)
+
 # TFHEDivision
 Division operation using the non-restoring division algorithm is implemented in the Fully Homomorphic Encrypted domain. 
 
