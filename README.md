@@ -7,3 +7,7 @@ COMPILATION:
 gcc alice.c -o alice -ltfhe-spqlios-fma
 gcc cloud.c -o cloud -ltfhe-spqlios-fma
 gcc verif.c -o verif -ltfhe-spqlios-fma
+
+Compile programs in the sequence alice.c - cloud.c - verif.c
+
+In file alice.c , plaintext1 represents the numerator(dividend), plaintext2 represents the denominator(divisor)
