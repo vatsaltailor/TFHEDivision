@@ -1,3 +1,6 @@
+Two words: SECURE COMPUTATION ; We have all heard of Secure Storage using encryption, but did you know you always have to decrypt your data right before computation? Fully Homomorphic Encryption (https://crypto.stanford.edu/craig/craig-thesis.pdf) allows one to perform operations directly on encrypted data. While addition, subtraction and multiplication have already been implemented, division was not. This work implements and allows users to divide in Fully Homomorphic Encyrption domain, thus completing the full tool stack of operations (+  -  *  / ) making it possible for you to implement and perform any operations you can imagine!
+
+
 The following work has been caried out by me as a part of my bacherlor's thesis at Indian Institute of Technology, Kharagpur under the guidance of Prof. Ayantika Chatterjee (https://sites.google.com/view/ayantikachatterjee/home)
 
 # TFHEDivision
